@@ -1,2 +1,0 @@
-archivo3 editado desde consola con vim
-
