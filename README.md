@@ -7,7 +7,7 @@
 **Ofrecido por:**
 Luis Alberto Gutierrez Anicama (LAGA)
 
-![LAGA](https://avatars0.githubusercontent.com/u/70557031?s=460&u=7aa278ac661e019b2b973fd63c0e74929e50fc7d&v=4)
+![LAGA](https://raw.githubusercontent.com/LAGAxyz/LAGAxyz/master/Foto%20(perfil).jpg)
 
 **TEMARIO:**
 1. Instalación y Configuración
